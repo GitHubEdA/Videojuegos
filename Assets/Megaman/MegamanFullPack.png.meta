@@ -1,0 +1,2962 @@
+fileFormatVersion: 2
+guid: 083c37f1049ee30449c2cb99a89ccbfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3660548961961528319
+    second: MegamanFullPack_0
+  - first:
+      213: 8278642821037008675
+    second: MegamanFullPack_1
+  - first:
+      213: -1242010369069286537
+    second: MegamanFullPack_2
+  - first:
+      213: -1164590844049965950
+    second: MegamanFullPack_3
+  - first:
+      213: 2496603663414612565
+    second: MegamanFullPack_4
+  - first:
+      213: 44566169010963924
+    second: MegamanFullPack_5
+  - first:
+      213: -8145118352206913717
+    second: MegamanFullPack_6
+  - first:
+      213: 8861067395705097964
+    second: MegamanFullPack_7
+  - first:
+      213: 8266918783911622722
+    second: MegamanFullPack_8
+  - first:
+      213: 2039759508338200
+    second: MegamanFullPack_9
+  - first:
+      213: -5059808917648545102
+    second: MegamanFullPack_10
+  - first:
+      213: -4091652847902046645
+    second: MegamanFullPack_11
+  - first:
+      213: 8049119029359107860
+    second: MegamanFullPack_12
+  - first:
+      213: 3876413573655540972
+    second: MegamanFullPack_13
+  - first:
+      213: 3408314752010301823
+    second: MegamanFullPack_14
+  - first:
+      213: -5737990697433345601
+    second: MegamanFullPack_15
+  - first:
+      213: -2902952201895296906
+    second: MegamanFullPack_16
+  - first:
+      213: -74803525813026910
+    second: MegamanFullPack_17
+  - first:
+      213: 866905424248388961
+    second: MegamanFullPack_18
+  - first:
+      213: 3276963827519686467
+    second: MegamanFullPack_19
+  - first:
+      213: 40028212237817167
+    second: MegamanFullPack_20
+  - first:
+      213: 7109870431252012490
+    second: MegamanFullPack_21
+  - first:
+      213: 996676940695199286
+    second: MegamanFullPack_22
+  - first:
+      213: -8165442784286401949
+    second: MegamanFullPack_23
+  - first:
+      213: -3819628693121017143
+    second: MegamanFullPack_24
+  - first:
+      213: 2681360534196209452
+    second: MegamanFullPack_25
+  - first:
+      213: -3226949432151024190
+    second: MegamanFullPack_26
+  - first:
+      213: -4992239809890770380
+    second: MegamanFullPack_27
+  - first:
+      213: -2547545887109721858
+    second: MegamanFullPack_28
+  - first:
+      213: 5891441287976132942
+    second: MegamanFullPack_29
+  - first:
+      213: -666622133600656239
+    second: MegamanFullPack_30
+  - first:
+      213: -6102680368287062843
+    second: MegamanFullPack_31
+  - first:
+      213: 2755857148558862537
+    second: MegamanFullPack_32
+  - first:
+      213: 7268519321314408186
+    second: MegamanFullPack_33
+  - first:
+      213: 3041526606790654175
+    second: MegamanFullPack_34
+  - first:
+      213: -4586087665935576792
+    second: MegamanFullPack_35
+  - first:
+      213: 6507801015221833313
+    second: MegamanFullPack_36
+  - first:
+      213: -6849822260228700462
+    second: MegamanFullPack_37
+  - first:
+      213: 9109496852542128426
+    second: MegamanFullPack_38
+  - first:
+      213: 3824551877244326627
+    second: MegamanFullPack_39
+  - first:
+      213: 3246104712677784971
+    second: MegamanFullPack_40
+  - first:
+      213: -3085460200631657568
+    second: MegamanFullPack_41
+  - first:
+      213: -3570682282678775652
+    second: MegamanFullPack_42
+  - first:
+      213: 4011018439225181239
+    second: MegamanFullPack_43
+  - first:
+      213: -5644845054991135189
+    second: MegamanFullPack_44
+  - first:
+      213: -5698331005638890325
+    second: MegamanFullPack_45
+  - first:
+      213: 1347330945588501217
+    second: MegamanFullPack_46
+  - first:
+      213: -980904720064544013
+    second: MegamanFullPack_47
+  - first:
+      213: 6269209147858867812
+    second: MegamanFullPack_48
+  - first:
+      213: -822259575084755242
+    second: MegamanFullPack_49
+  - first:
+      213: -3670249185216680228
+    second: MegamanFullPack_50
+  - first:
+      213: 7434105579627060903
+    second: MegamanFullPack_51
+  - first:
+      213: -1560696938049896199
+    second: MegamanFullPack_52
+  - first:
+      213: -3460678663698288914
+    second: MegamanFullPack_53
+  - first:
+      213: -881598502424982148
+    second: MegamanFullPack_54
+  - first:
+      213: 8005099025167099198
+    second: MegamanFullPack_55
+  - first:
+      213: 1011250903196738940
+    second: MegamanFullPack_56
+  - first:
+      213: -8777554018872347818
+    second: MegamanFullPack_57
+  - first:
+      213: 3312988053920083108
+    second: MegamanFullPack_58
+  - first:
+      213: 4162267371884707672
+    second: MegamanFullPack_59
+  - first:
+      213: -471860823963621888
+    second: MegamanFullPack_60
+  - first:
+      213: 6438474760976449040
+    second: MegamanFullPack_61
+  - first:
+      213: 7022950905551550532
+    second: MegamanFullPack_62
+  - first:
+      213: -2579998378417597425
+    second: MegamanFullPack_63
+  - first:
+      213: -5197388276438790719
+    second: MegamanFullPack_64
+  - first:
+      213: 5838240548860496037
+    second: MegamanFullPack_65
+  - first:
+      213: 4311072255132045712
+    second: MegamanFullPack_66
+  - first:
+      213: 7244407196021382910
+    second: MegamanFullPack_67
+  - first:
+      213: 7512762211468714894
+    second: MegamanFullPack_68
+  - first:
+      213: 3058220043223677524
+    second: MegamanFullPack_69
+  - first:
+      213: 8837534087232440591
+    second: MegamanFullPack_70
+  - first:
+      213: 5568169686179508892
+    second: MegamanFullPack_71
+  - first:
+      213: 5083940643512922433
+    second: MegamanFullPack_72
+  - first:
+      213: 1627556936657086157
+    second: MegamanFullPack_73
+  - first:
+      213: 5430950394429158109
+    second: MegamanFullPack_74
+  - first:
+      213: 2815968014197236162
+    second: MegamanFullPack_75
+  - first:
+      213: 1480244171114338447
+    second: MegamanFullPack_76
+  - first:
+      213: -468592054358918092
+    second: MegamanFullPack_77
+  - first:
+      213: -3053357867325406306
+    second: MegamanFullPack_78
+  - first:
+      213: -5209286639825618809
+    second: MegamanFullPack_79
+  - first:
+      213: -433504736273481759
+    second: MegamanFullPack_80
+  - first:
+      213: 1886341920001025550
+    second: MegamanFullPack_81
+  - first:
+      213: 5191049424279338918
+    second: MegamanFullPack_82
+  - first:
+      213: -1491980872174305332
+    second: MegamanFullPack_83
+  - first:
+      213: -8452969230265974567
+    second: MegamanFullPack_84
+  - first:
+      213: -2737849157934816907
+    second: MegamanFullPack_85
+  - first:
+      213: -265024472781575178
+    second: MegamanFullPack_86
+  - first:
+      213: 5716723918148552119
+    second: MegamanFullPack_87
+  - first:
+      213: -376989880716734792
+    second: MegamanFullPack_88
+  - first:
+      213: -4303944354052467193
+    second: MegamanFullPack_89
+  - first:
+      213: 8017907322984693415
+    second: MegamanFullPack_90
+  - first:
+      213: 6336448187237527532
+    second: MegamanFullPack_91
+  - first:
+      213: -6083383033061612864
+    second: MegamanFullPack_92
+  - first:
+      213: -7298761581291919124
+    second: MegamanFullPack_93
+  - first:
+      213: -2148556776657062522
+    second: MegamanFullPack_94
+  - first:
+      213: 2597725610571514153
+    second: MegamanFullPack_95
+  - first:
+      213: -7410283425808125467
+    second: MegamanFullPack_96
+  - first:
+      213: -6423573597425649288
+    second: MegamanFullPack_97
+  - first:
+      213: -494117451659613891
+    second: MegamanFullPack_98
+  - first:
+      213: -6070659193634411630
+    second: MegamanFullPack_99
+  - first:
+      213: 7866949673467188481
+    second: MegamanFullPack_100
+  - first:
+      213: 79057904826593473
+    second: MegamanFullPack_101
+  - first:
+      213: -8628625802643707747
+    second: MegamanFullPack_102
+  - first:
+      213: 6165406176807157084
+    second: MegamanFullPack_103
+  - first:
+      213: -175878504483611880
+    second: MegamanFullPack_104
+  - first:
+      213: 27053791474449458
+    second: MegamanFullPack_105
+  - first:
+      213: 3071611787762255854
+    second: MegamanFullPack_106
+  - first:
+      213: -1448530289694448245
+    second: MegamanFullPack_107
+  - first:
+      213: 6806689021603667203
+    second: MegamanFullPack_108
+  - first:
+      213: 3421978766526247498
+    second: MegamanFullPack_109
+  - first:
+      213: -208975971336732252
+    second: MegamanFullPack_110
+  - first:
+      213: -7052738205930750601
+    second: MegamanFullPack_111
+  - first:
+      213: -285084315339802534
+    second: MegamanFullPack_112
+  - first:
+      213: 5806333966692227259
+    second: MegamanFullPack_113
+  - first:
+      213: -6533250461298100339
+    second: MegamanFullPack_114
+  - first:
+      213: 3455516572034937084
+    second: MegamanFullPack_115
+  - first:
+      213: -7606121686806123133
+    second: MegamanFullPack_116
+  - first:
+      213: -1906760996008082359
+    second: MegamanFullPack_117
+  - first:
+      213: -7483777667216098081
+    second: MegamanFullPack_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegamanFullPack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bb5f0d1e133dc0800000000000000
+      internalID: -3660548961961528319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 475
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327af3a98c5a3e270800000000000000
+      internalID: 8278642821037008675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 475
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf548562e73cee0800000000000000
+      internalID: -1242010369069286537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 475
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cbabf2cca86dfe0800000000000000
+      internalID: -1164590844049965950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 475
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55254c6edc7b5a220800000000000000
+      internalID: 2496603663414612565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 475
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d506e0d1b45e9000800000000000000
+      internalID: 44566169010963924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 475
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f113b630ab6fe80800000000000000
+      internalID: -8145118352206913717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 475
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee4cc339d5d8fa70800000000000000
+      internalID: 8861067395705097964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 475
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487e0e75def9b270800000000000000
+      internalID: 8266918783911622722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 475
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fbe4862f370000800000000000000
+      internalID: 2039759508338200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 474
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6430f892f7c9b0800000000000000
+      internalID: -5059808917648545102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 474
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b464590d9678737c0800000000000000
+      internalID: -4091652847902046645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 474
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f59c37c1734bf60800000000000000
+      internalID: 8049119029359107860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 474
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4bd3c6b99cbc530800000000000000
+      internalID: 3876413573655540972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 474
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713c4c7534cc4f20800000000000000
+      internalID: 3408314752010301823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 474
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb15df2acdf8e50b0800000000000000
+      internalID: -5737990697433345601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 474
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c7165a54a6b7d0800000000000000
+      internalID: -2902952201895296906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 474
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afb7ffe69e36fef0800000000000000
+      internalID: -74803525813026910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 474
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3f2ae3edd70c00800000000000000
+      internalID: 866905424248388961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_19
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 474
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478d113d3d1a7d20800000000000000
+      internalID: 3276963827519686467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 474
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45dd6b62753e8000800000000000000
+      internalID: 40028212237817167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd54ddcc755ba260800000000000000
+      internalID: 7109870431252012490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed5fd9568e4dd00800000000000000
+      internalID: 996676940695199286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 417
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a15d0dc058eae80800000000000000
+      internalID: -8165442784286401949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 417
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad1acd0f3fdfac0800000000000000
+      internalID: -3819628693121017143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 417
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27448b033b163520800000000000000
+      internalID: 2681360534196209452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 417
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5d7ca6929733d0800000000000000
+      internalID: -3226949432151024190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 417
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a5e9c75008bab0800000000000000
+      internalID: -4992239809890770380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef051dd538c45acd0800000000000000
+      internalID: -2547545887109721858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 422
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4123e023aa92c150800000000000000
+      internalID: 5891441287976132942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 422
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e15f83beafb6f0800000000000000
+      internalID: -666622133600656239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 422
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ef76d98cee4ba0800000000000000
+      internalID: -6102680368287062843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 422
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c86297b975ce3620800000000000000
+      internalID: 2755857148558862537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 422
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6320effc7fed460800000000000000
+      internalID: 7268519321314408186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 422
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f7ac855ca53a20800000000000000
+      internalID: 3041526606790654175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 422
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211c13e091fa50c0800000000000000
+      internalID: -4586087665935576792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 422
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e49352b8a505a50800000000000000
+      internalID: 6507801015221833313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_37
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 422
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6418c32fa80f0a0800000000000000
+      internalID: -6849822260228700462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 422
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21005a8f1f6b6e70800000000000000
+      internalID: 9109496852542128426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e293344ba9831530800000000000000
+      internalID: 3824551877244326627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 369
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d71ee990b7c0d20800000000000000
+      internalID: 3246104712677784971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 369
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9eb48b4e3e25d0800000000000000
+      internalID: -3085460200631657568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 369
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909627d163627ec0800000000000000
+      internalID: -3570682282678775652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 369
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340f89e4000aa730800000000000000
+      internalID: 4011018439225181239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 369
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0225845b79a1b0800000000000000
+      internalID: -5644845054991135189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 369
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacac4434267be0b0800000000000000
+      internalID: -5698331005638890325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 369
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea91b64b5ea2b210800000000000000
+      internalID: 1347330945588501217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 369
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28c0aaa502362f0800000000000000
+      internalID: -980904720064544013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 370
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d1c81184b00750800000000000000
+      internalID: 6269209147858867812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 370
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d8e1e54fb694f0800000000000000
+      internalID: -822259575084755242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 364
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2ef5dfc7a01dc0800000000000000
+      internalID: -3670249185216680228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 364
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae9b6813af3b2760800000000000000
+      internalID: 7434105579627060903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 364
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00f7d576a475ae0800000000000000
+      internalID: -1560696938049896199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_53
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 364
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6d70471339ffc0800000000000000
+      internalID: -3460678663698288914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_54
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 364
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d417c35dee3c3f0800000000000000
+      internalID: -881598502424982148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3529ea8623d71f60800000000000000
+      internalID: 8005099025167099198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 326
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a5dfa65fa80e00800000000000000
+      internalID: 1011250903196738940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_57
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 326
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bf44102ddf2680800000000000000
+      internalID: -8777554018872347818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace40305191afd20800000000000000
+      internalID: 3312988053920083108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_59
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 326
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff2614f1853c930800000000000000
+      internalID: 4162267371884707672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 326
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a934a41d9379f0800000000000000
+      internalID: -471860823963621888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 326
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb15fbeae0a5950800000000000000
+      internalID: 6438474760976449040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 326
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487860b3a8867160800000000000000
+      internalID: 7022950905551550532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 326
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d55de421023cd0800000000000000
+      internalID: -2579998378417597425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 250
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd061746ea2fd7b0800000000000000
+      internalID: -5197388276438790719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 165
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88c1cc8d8950150800000000000000
+      internalID: 5838240548860496037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911030006104db30800000000000000
+      internalID: 4311072255132045712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 273
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe532756fd498460800000000000000
+      internalID: 7244407196021382910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 273
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8322905d61b24860800000000000000
+      internalID: 7512762211468714894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_69
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 273
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab3591deaf07a20800000000000000
+      internalID: 3058220043223677524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0945e7dd6a35aa70800000000000000
+      internalID: 8837534087232440591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 267
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f3d104dc164d40800000000000000
+      internalID: 5568169686179508892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 267
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14132c35419cd8640800000000000000
+      internalID: 5083940643512922433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 270
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62b25296e369610800000000000000
+      internalID: 1627556936657086157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 270
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2b7bcfb9c9e5b40800000000000000
+      internalID: 5430950394429158109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 267
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a6114df3541720800000000000000
+      internalID: 2815968014197236162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 279
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88dc102b32ea8410800000000000000
+      internalID: 1480244171114338447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 284
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbd5f520a3f79f0800000000000000
+      internalID: -468592054358918092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_78
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 268
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93cce1723b40a5d0800000000000000
+      internalID: -3053357867325406306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 226
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788710ca665e4b7b0800000000000000
+      internalID: -5209286639825618809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 225
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef38f93db1ebf9f0800000000000000
+      internalID: -433504736273481759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e6926bf1ad2a10800000000000000
+      internalID: 1886341920001025550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 226
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af7aa1b2ff4a0840800000000000000
+      internalID: 5191049424279338918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_83
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 227
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf7f563d4b6b4be0800000000000000
+      internalID: -1491980872174305332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 175
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d080b4554501ba80800000000000000
+      internalID: -8452969230265974567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57161b452b4310ad0800000000000000
+      internalID: -2737849157934816907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba11b65a1725cf0800000000000000
+      internalID: -265024472781575178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_87
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 171
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b549347d12e55f40800000000000000
+      internalID: 5716723918148552119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be46fb63b9a4caf0800000000000000
+      internalID: -376989880716734792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70697abc9615544c0800000000000000
+      internalID: -4303944354052467193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 175
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7184ca34554f60800000000000000
+      internalID: 8017907322984693415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 171
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe5f9ed069fe750800000000000000
+      internalID: 6336448187237527532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 175
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c269b1dc5b739ba0800000000000000
+      internalID: -6083383033061612864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_93
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 175
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a3d6230795ba90800000000000000
+      internalID: -7298761581291919124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_94
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 175
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685f893ceface22e0800000000000000
+      internalID: -2148556776657062522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 178
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921cc02fda9fc0420800000000000000
+      internalID: 2597725610571514153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1fdbf4c72692990800000000000000
+      internalID: -7410283425808125467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879bdd0c8d1ead6a0800000000000000
+      internalID: -6423573597425649288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_98
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 135
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39e180bbca8429f0800000000000000
+      internalID: -494117451659613891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 140
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b26fa80afa0cba0800000000000000
+      internalID: -6070659193634411630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_100
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10513e01c050d2d60800000000000000
+      internalID: 7866949673467188481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_101
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 141
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c030eddebed81100800000000000000
+      internalID: 79057904826593473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e6a58c86f04880800000000000000
+      internalID: -8628625802643707747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 137
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df698804cef8550800000000000000
+      internalID: 6165406176807157084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b90a89e672f8df0800000000000000
+      internalID: -175878504483611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 102
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c79aea74d106000800000000000000
+      internalID: 27053791474449458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_106
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c87995ae80aa20800000000000000
+      internalID: 3071611787762255854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_107
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856e5c4069c5ebe0800000000000000
+      internalID: -1448530289694448245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ddc3d0a97367e50800000000000000
+      internalID: 6806689021603667203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f9b7ce8f4d7f20800000000000000
+      internalID: 3421978766526247498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_110
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c1e51671991df0800000000000000
+      internalID: -208975971336732252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_111
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dfbadf7f3af1e90800000000000000
+      internalID: -7052738205930750601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_112
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b22d535d2b0cf0800000000000000
+      internalID: -285084315339802534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_113
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb899fbbafd349050800000000000000
+      internalID: 5806333966692227259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877ba1f15b3555a0800000000000000
+      internalID: -6533250461298100339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03e9f930674ff20800000000000000
+      internalID: 3455516572034937084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da683ff90a17690800000000000000
+      internalID: -7606121686806123133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_117
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444e510af2d985e0800000000000000
+      internalID: -1906760996008082359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanFullPack_118
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3597ccd7442890800000000000000
+      internalID: -7483777667216098081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
